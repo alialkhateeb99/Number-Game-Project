@@ -1,0 +1,17 @@
+This is a number guessing game.
+
+You guess a number between 1-100. You have 10 tries to get the number right. 
+After each try the program will give you a hint wether that number is smaller or 
+larger than the random number generated.
+
+After each number that you enter : 
+ - The program will tell you how many guesses you have left.
+ - The program will show you which numbers you have guessed so far.
+ 
+There is a statistics page that shows you the games that you have played so far.
+It also shows you the following statistics about each game : 
+  - WON/LOSS
+  - Attempts you have tried in this game 
+  - Options ( You can resume a game if you dont want to finish it now)
+ 
+ The dynamic model for this game is using HTML and JSP Servlets.
